@@ -1,0 +1,1 @@
+All COMPSCI 2C03 (Data Structures and Algorithms) assignments coded in LaTeX (uploaded as PDFs). Theoretical analysis of stacks, queues, hash tables, binary trees, searching, sorting, and graphs. Fall 2025.
